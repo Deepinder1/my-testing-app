@@ -34,6 +34,7 @@
     "react-native-countdown-hint": "^0.0.3",
     "react-native-dropdown-picker": "^3.7.8",
     "react-native-elements": "^3.1.0",
+    "react-native-expo-image-cropper": "^1.0.2",
     "react-native-gesture-handler": "^1.8.0",
     "react-native-keyboard-aware-scroll-view": "^0.9.3",
     "react-native-modal-dropdown": "^1.0.0",
